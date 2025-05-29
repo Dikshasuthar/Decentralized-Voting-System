@@ -91,4 +91,5 @@ DecentralizedVotingSystem/
 - `executeProposal(uint256)` - Mark proposal as executed (Admin only)
 
 Adress: 0x29E37a3a9A66F3Fb0174E258Abd003a8E087E771
-deployment ss:![Screenshot 2025-05-29 092031](https://github.com/user-attachments/assets/0f5488e3-83b7-4ef6-80d1-35581854ad27)
+deployment ss:![Screenshot 2025-05-29 091616](https://github.com/user-attachments/assets/2bec1b61-1fd5-4238-924e-fd3230ec5aaa)
+
